@@ -29,3 +29,17 @@ _(Add some screenshots of your app here)_
 4. Run the app:
    ```bash
    flutter run
+
+## Requirements
+
+- Flutter SDK
+- Dart
+- Android Studio or Visual Studio Code with Flutter extensions
+
+# Contributing
+
+Feel free to open issues or submit pull requests for improvements or fixes.
+
+# Contact
+
+For any inquiries, reach out to me at jindalhimanshu.2004@gmail.com.
