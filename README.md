@@ -18,5 +18,5 @@ _(Add some screenshots of your app here)_
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   
    git clone https://github.com/your-username/YouTube-App-Clone.git
