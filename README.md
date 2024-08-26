@@ -13,7 +13,8 @@ This repository contains the YouTube App Clone developed during my Flutter summe
 
 ## Screenshots
 
-_(Add some screenshots of your app here)_
+![WhatsApp Image 2024-08-26 at 15 01 04_d2306415](https://github.com/user-attachments/assets/947e20ba-c4ca-45ed-9928-0615483bd8a6)
+
 
 ## Installation
 
